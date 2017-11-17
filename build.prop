@@ -8,7 +8,7 @@ ro.build.version.sdk=22
 ro.build.version.codename=REL
 ro.build.version.all_codenames=REL
 ro.build.version.release=5.1.1
-ro.build.date=2016年 08月 04日 星期四 11:08:36 CST
+ro.build.date=201611:08:36 CST
 ro.build.date.utc=1470280116
 ro.build.type=userdebug
 ro.build.user=qinfuqian
@@ -76,4 +76,6 @@ dalvik.vm.lockprof.threshold=500
 dalvik.vm.dexopt-flags=m=y
 net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
-#qemu.hw.mainkeys=1
+#qemu.hw.mainkeysy6y7
+
+yangyang
